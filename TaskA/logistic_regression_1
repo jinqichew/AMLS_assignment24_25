@@ -42,3 +42,4 @@ combined_acc = accuracy_score(y_combined, combined_pred)
 print(f"Logistic Regression Combined Accuracy: {combined_acc:.4f}")
 
 print(classification_report(y_test, test_pred))
+print(confusion_matrix(y_test, test_pred))
