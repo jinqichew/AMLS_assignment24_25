@@ -11,6 +11,8 @@ Code for other tested models
 Only random_forest_taskA.py and cnn_taskB.py are run by default in the main.py file\
 If other models need to be tested, uncomment the corresponding parts in main.py
 
+bloodmnist.npz is uploaded to the Datasets folder due to large file size.
+
 # Packages required:
 numpy\
 scikit-learn\
