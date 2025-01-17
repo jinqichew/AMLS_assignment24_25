@@ -15,4 +15,4 @@ If other models need to be tested, uncomment the corresponding parts in main.py
 numpy\
 scikit-learn\
 matplotlib\
-torch\
+torch
